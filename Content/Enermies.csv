@@ -1,0 +1,3 @@
+﻿Row Name,MaxHealth,Health,MaxSpeed,Color,Damage
+Spidey_BLACK,30,30,200,"(R=0,G=0,B=0,A=0)",1
+Spidey_RED,30,30,100,"(R=1,G=0,B=0,A=0)",1
